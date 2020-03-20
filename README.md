@@ -1,4 +1,4 @@
-# timebased-project-analysis
+# Timebased-project performance prediction - analysis
 
 The project has two files Capstone project.ipynb and headcount & revenue scatter.  The Capstone file is the main file in this analysis.  The below paper will give more context of the analysis. 
 
